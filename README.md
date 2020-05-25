@@ -1,3 +1,19 @@
+# Personal Site
+
+## Description 
+This is a simple react app that displays my personal projects
+
+## Dependencies and Citations 
+1. [github pages](https://guides.github.com/features/pages/)
+2. [react](https://reactjs.org/)
+3. [react-gh-pages](https://github.com/gitname/react-gh-pages)
+4. [react-collapsible](https://www.npmjs.com/package/react-collapsible)
+5. [react-responsive-carousel](https://www.npmjs.com/package/react-responsive-carousel)
+
+## Other Information
+- Designed for [github pages](https://guides.github.com/features/pages/)
+- React code converted using: [react-gh-pages](https://github.com/gitname/react-gh-pages)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

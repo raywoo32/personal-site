@@ -1,0 +1,43 @@
+/* Contact.css */
+
+
+
+
+input[type=text],input[type=email], select, textarea {
+     width: 100%;                     
+     padding: 12px;   
+     border: none;                                
+     box-sizing: border-box;                     
+     margin-top: 6px;                     
+     resize: vertical;    
+     font-family: Helvetica;                 
+}                     
+input[type=submit] {              
+  background-color: #43464B;              
+  color: white;              
+  padding: 12px 20px;              
+  border: none;              
+  cursor: pointer;     
+  font-family: Helvetica;         
+ }              
+ input[type=submit]:hover {              
+  background-color: black;              
+ }              
+
+.contact-margins {
+    width: 92vw;
+    display: inline-block;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    margin-bottom: 1vh;
+    text-align: center;
+    background-color: #98B0C3;
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+.contact-label {
+    font-size: 10px;
+    line-height: 1em;
+    padding: 1.5vh;
+}
